@@ -1,2 +1,2 @@
 # taco-cloud
-Spring In Action (5th) Demo;
+Spring In Action (6th) Demo;
